@@ -1,0 +1,8 @@
+rdkit-pypi
+pandas
+numpy
+xgboost
+scikit-learn
+shap
+requests
+scipy
